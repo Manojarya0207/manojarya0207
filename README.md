@@ -1,5 +1,5 @@
 
-# Manojarya07
+# Manoj S Arya
 # 💫 About Me:
 I am a youtuber!<br>AI/ML Engineer<br>
 
