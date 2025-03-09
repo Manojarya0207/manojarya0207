@@ -1,7 +1,16 @@
 
 # Manoj S Arya
 # 💫 About Me:
-I am a youtuber!<br>AI/ML Engineer<br>
+My name is Manoj S Arya.
+            I am a student at the Govt. Tool Room and Training Center, Magadi.
+            I am pursuing my studies in the AI/ML department.
+            I am passionate about artificial intelligence and machine learning.
+            I enjoy solving real-world problems using technology.
+            I strive to keep learning and improving my technical skills.
+            My goal is to contribute to innovative projects in the AI/ML field.
+            Collaboration and teamwork are my strengths.
+            I believe in lifelong learning and staying curious.
+            Outside academics, I enjoy exploring new ideas and hobbies.<br>
 
 
 ## 🌐 Socials:
