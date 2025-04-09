@@ -1,7 +1,7 @@
 
 # Manoj S Arya
 # 💫 About Me:
-My name is Manoj S Arya.
+My name is Manoj  Arya.
             I am a student at the Govt. Tool Room and Training Center, Magadi.
             I am pursuing my studies in the AI/ML department.
             I am passionate about artificial intelligence and machine learning.
